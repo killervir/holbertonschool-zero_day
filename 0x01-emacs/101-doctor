@@ -1,1 +1,1 @@
-emacs -q --no-splash -f doctor
+M-x doctor
